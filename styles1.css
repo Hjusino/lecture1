@@ -1,0 +1,26 @@
+.title, ol span {
+  font-size: 10px;
+  color: red;
+  background-color: black; }
+
+.row {
+  padding: 10px;
+  background-color: black;
+  border: 5px black; }
+
+.hack {
+  font-style: italic;
+  color: red; }
+
+#bold {
+  font-weight: bold;
+  color: blue; }
+
+div {
+  font-size: 20px; }
+  div ol {
+    font-size: 20px; }
+  div img {
+    border: 10px solid red; }
+
+/*# sourceMappingURL=styles1.css.map */

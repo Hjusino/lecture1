@@ -1,0 +1,2 @@
+# Hjusino
+In my html files, I designed the website to give a little insight into the characters of Mr. Robot. The main page consist of the four of the main characters in the series with a Mr. Robot image banner. Each name is an anchor that will direct you to the html page that gives an ordered list with some information on the characters. Once on the specific page there is a button on the bottom of the page which will direct you back to the main page. 
